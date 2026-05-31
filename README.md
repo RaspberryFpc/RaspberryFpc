@@ -9,9 +9,6 @@ I’m a passionate developer focused on programming with **Free Pascal (FPC)** a
 My main platforms are **Raspberry Pi** for hardware-related projects and **Windows** for general software development.  
 During my professional career in the industry, I worked extensively with **Siemens Simatic** systems, most recently using the **TIA Portal**, and gained valuable hands-on experience **directly in the field with customers**.
 
-My goal is to share my **programs and code snippets** so that others can benefit from them and further develop them.  
-**Feedback is welcome**.
-
 ### My Programming Languages & Tools
 
 - **Free Pascal (FPC)** for software development  
