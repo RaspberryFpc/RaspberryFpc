@@ -23,6 +23,7 @@ In this repository, you’ll find a collection of projects I’ve developed over
 
 **Example Projects:**
 
+- **pibackup An Raspberry Pi Backup & Restore Tool
 - **Audio Streaming**: An RTP receiver application for audio streaming over UDP  
 - **GPIO Control**: A unit for simple GPIO pin control on Raspberry Pi using kernel-level access, compatible with Pi4 and Pi5  
 
@@ -47,9 +48,6 @@ Meine Hauptplattformen sind **Raspberry Pi** für Hardware-Projekte und **Window
 Während meiner aktiven Berufszeit habe ich in der Industrie mit **Simatic** gearbeitet, zuletzt mit dem **TIA Portal** und 
 konnte wertvolle Erfahrungen **direkt beim Kunden im Feld** sammeln.
 
-Mein Ziel ist es, meine **Programme und Codeschnipsel** zur Verfügung zu stellen, damit andere davon profitieren und diese weiterentwickeln können.  
-**Feedback ist willkommen**, jedoch übernehme ich keinen Support für die bereitgestellten Projekte.
-
 ### Meine Programmiersprachen & Tools:
 - **Free Pascal (FPC)** für Software-Entwicklung
 - **Codetyphon** IDE für eine effiziente Entwicklung auf verschiedenen Plattformen
@@ -69,8 +67,3 @@ Beispielprojekte:
 Ich arbeite hauptsächlich mit **Codetyphon** als Entwicklungsumgebung für **Free Pascal**.  
 Codetyphon bietet eine vollständige IDE für die Programmierung auf verschiedenen Plattformen und unterstützt mich dabei, 
 Projekte sowohl auf **Raspberry Pi** als auch auf **Windows** zu entwickeln und auszuführen.
-
-## Hinweise:
-- Alle Projekte sind zur freien Nutzung und zum Austausch gedacht.
-- **Kommentare sind willkommen!** Falls du Feedback hast oder Fragen hast, hinterlasse gerne einen Kommentar.
-
