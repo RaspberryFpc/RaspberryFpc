@@ -24,7 +24,7 @@ In this repository, you’ll find a collection of projects I’ve developed over
 **Example Projects:**
 
 - **pibackup An Raspberry Pi Backup & Restore Tool
-- **Audio Streaming**: An RTP receiver application for audio streaming over UDP  
+- **Audio Streaming**: An RTP receiver and a transmitter application for audio streaming over UDP  
 - **GPIO Control**: A unit for simple GPIO pin control on Raspberry Pi using kernel-level access, compatible with Pi4 and Pi5  
 
 ## Development Environment
@@ -60,7 +60,8 @@ In diesem Repository wirst du eine Sammlung von Projekten finden, die ich im Lau
 Die Projekte umfassen verschiedene Softwarelösungen, die auf **Raspberry Pi** oder **Windows** laufen.
 
 Beispielprojekte:
-- **Audioübertragung**: Ein RTP-Empfängerprogramm zur Audioübertragung über UDP.
+- **pibackup Ein Raspberry Pi Backup & Restore Tool
+- **Audioübertragung**: Ein RTP-Empfängerprogramm mit Sender zur Audioübertragung über UDP.
 - **GPIO-Steuerung**: Eine Unit zur einfachen Steuerung der GPIO-Pins auf dem Raspberry Pi über den Kernel und damit für Pi4 und Pi5 geeignet.
 
 ## Entwicklungsumgebungen
